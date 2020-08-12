@@ -7,7 +7,7 @@ body{
 }
 
 .blogheader{
-	background: url('nature.jpg')center;
+	background: url('/images/nature.jpg')center;
 	height: 400px;
 	padding:10px;
 	border-bottom: solid coral 2px;
