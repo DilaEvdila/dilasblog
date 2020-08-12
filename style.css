@@ -10,7 +10,7 @@ body{
 	background: url('nature.jpg')center;
 	height: 400px;
 	padding:10px;
-	border-bottom: solid coral 10px;
+	border-bottom: solid coral 2px;
 	box-shadow: 10px 5px grey;
 }
 .blogheader h1{
@@ -29,7 +29,7 @@ body{
 .img1 {
 	width: 95%;
 	padding: 10px;
-	box-shadow: 4px 2px grey;
+	box-shadow: 2px 1px grey;
 }
 
 h2{
