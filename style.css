@@ -25,8 +25,6 @@ body{
 	color: coral;
 }
 img{
-	width: 1100px;
-	height: 535px;
 	border: solid coral 2px;
 	box-shadow: 10px 10px 5px grey;
 }
