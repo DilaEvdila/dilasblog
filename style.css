@@ -1,0 +1,49 @@
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.blogheader{
+	background: url('/img/nature.jpg')center;
+	height: 400px;
+	padding:10px;
+	border-bottom: solid coral 10px;
+	box-shadow: 10px 5px grey;
+}
+.blogheader h1{
+	
+	text-align: center;
+	font-size:90px;
+	margin:1.5 0px;
+	text-align: left;
+	color: #ffffff;
+}
+.blogheader h1:hover {
+	color: coral;
+}
+.left-column img{
+	width: 1100px;
+	height: 535px;
+	border: solid coral 2px;
+	box-shadow: 10px 10px 5px grey;
+}
+
+h2{
+	border-top: solid coral 1px;
+	padding-top: 30px;
+	font-size: 50px;
+	margin-top: 90px;
+}
+h2:hover {
+	color: coral;
+}
+.left-column{
+float: left;
+width: 70%;	
+}
+
+
+.right-column .card img{
+	margin-bottom: 10px;
+}
