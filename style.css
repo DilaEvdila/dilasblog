@@ -39,13 +39,10 @@ h2{
 }
 h2:hover {
 	color: coral;
-}
-.left-column{
-float: left;
-width: 70%;	
-}
 
 
-.right-column .card img{
+
+img{
 	margin-bottom: 10px;
+	
 }
