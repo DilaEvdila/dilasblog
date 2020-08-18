@@ -123,7 +123,7 @@ h4:hover{
     padding: 40px;
     color: #fff;
     border-top: solid 1px;
-    background: url('img/web/contact.jpg')center/cover no-repeat;
+    background: url('/img/web/contact.jpg')center/cover no-repeat;
     height: 400px;
 
 }
