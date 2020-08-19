@@ -115,27 +115,36 @@ h4 {
 h4:hover{
     color: coral;
 }
+
 .contact-info:hover{
     color: coral;
 }
 #contact {
     margin-top: 20px;
     padding: 40px;
-    color: #0000;
-    background-color: #242925;
+    color: #fff;
     border-top: solid coral 1px;
-    background: url("img/web/contact.jpg")center/cover no-repeat;
     height: 400px;
-
+    background: #3a3d3b;
+   
 }
-#contact h4 ,a {
-  color: black;
-font-size: 20px;
+
+#contact h4 {
+  color: white;
+font-size: 22px;
+}
+#contact a {
+  color: white;
+font-size: 16px;
 }
 #contact h4:hover{
   color: coral;
 }
+#contact a:hover {
+  color: coral;
+font-size: 16px;
 }
+
 #work{
     border-top: solid 1px;
     margin-top: 20px;
@@ -153,7 +162,7 @@ font-size: 20px;
 
 ::-webkit-selection {
   color: #fff;
-  background: coral
+  background: coral;
   text-shadow: none;
 }
 
@@ -299,8 +308,7 @@ fieldset[disabled] .btn-theme {
   width: 40px;
   height: 40px;
   font-size: 16px;
-  color: #tomato;
-   background: tomato;
+  background: tomato;
   text-align: center;
   border-radius: 50%;
   vertical-align: middle;
@@ -812,6 +820,7 @@ background:  rgb(26, 25, 25);
 /*------------------------------------------------------------------
     [Row]
 ------------------------------------------------------------------*/
+
 .img-responsive{
     border: solid 2px;
 }.img-responsive:hover{
