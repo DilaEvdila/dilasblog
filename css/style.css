@@ -164,6 +164,9 @@ padding: 5px;
 }
 #myworks p{
   font-size: 16px;
+  padding: 5px;
+  height: 100px;
+  background: white;
   }
 
 .mytext{
