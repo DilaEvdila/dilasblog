@@ -125,8 +125,9 @@ h4:hover{
     color: #fff;
     border-top: solid coral 1px;
     height: 400px;
-   background-image: url('img/web/contact.jpg');
+   background-image: url('/img/web/contact.jpg');
   background-repeat: no-repeat;);   
+  background-color: grey;
 }
 
 #contact h4 {
