@@ -121,10 +121,10 @@ h4:hover{
 #contact {
     margin-top: 20px;
     padding: 40px;
-    color: #fff;
-    background-color: aqua;
+    color: #0000;
+    background-color: #242925;
     border-top: solid 1px;
-    background: url("/img/web/contact.jpg")center/cover no-repeat;
+    background: url("img/web/contact.jpg")center/cover no-repeat;
     height: 400px;
 
 }
