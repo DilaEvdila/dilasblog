@@ -125,8 +125,7 @@ h4:hover{
     color: #fff;
     border-top: solid coral 1px;
     height: 400px;
-    background: #3a3d3b;
-   
+    background: url('/img/web/contact.jpg')center/cover no-repeat;   
 }
 
 #contact h4 {
@@ -152,12 +151,22 @@ font-size: 16px;
 }
 #myworks{
   border-top: solid coral;
-  padding-top: 10px;
+  margin-top: 20px;
+
+padding: 5px;
 }
 ::selection {
   color: #000000;
   background: coral;
   text-shadow: none;
+}
+#myworks p{
+  font-size: 16px;
+  }
+
+.mytext{
+  margin-bottom: 200px;
+  box-sizing: border-box;
 }
 
 ::-webkit-selection {
@@ -262,6 +271,7 @@ fieldset[disabled] .btn-theme {
 }
 
 .btn-white-brd {
+
   color: #fff;
   background: transparent;
   border-color: #fff;
@@ -825,7 +835,7 @@ background:  rgb(26, 25, 25);
     border: solid 2px;
 }.img-responsive:hover{
     color: coral;
-}
+    }
 
 
 .row-space-2 > [class*="col-"] {
@@ -1023,7 +1033,7 @@ background:  rgb(26, 25, 25);
 }
 
 .margin-b-20 {
-  margin-bottom: 20px !important;
+  margin-bottom: 2px !important;
 }
 
 .margin-b-30 {
@@ -1075,7 +1085,7 @@ background:  rgb(26, 25, 25);
     margin-bottom: 10px !important;
   }
   .md-margin-b-20 {
-    margin-bottom: 20px !important;
+    margin-bottom: 40px;
   }
   .md-margin-b-30 {
     margin-bottom: 30px !important;
