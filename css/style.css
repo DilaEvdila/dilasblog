@@ -333,8 +333,8 @@ fieldset[disabled] .btn-theme {
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
 }
 
-.social-icons:hover {
-  color: #000000;
+.social-img:hover {
+border: solid coral;
 background:  rgb(26, 25, 25);
   transition-duration: 300ms;
   transition-property: all;
