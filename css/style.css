@@ -543,7 +543,7 @@ background:  rgb(26, 25, 25);
 }
 
 .header .navbar-toggle:hover .toggle-icon.is-clicked {
-  background: #000000
+  background: #fff;
   
 }
 
@@ -635,7 +635,7 @@ background:  rgb(26, 25, 25);
   left: 0;
   width: 9px;
   height: 2px;
-   background: #000;
+   background: coral;
   opacity: 0;
   content: " ";
   transition-duration: 400ms;
