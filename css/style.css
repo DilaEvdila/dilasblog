@@ -122,9 +122,9 @@ h4:hover{
     margin-top: 20px;
     padding: 40px;
     color: #fff;
+    background-color: aqua;
     border-top: solid 1px;
-    background-color: #21201e;
-   background: url("/img/web/contact.jpg");
+    background: url("/img/web/contact.jpg")center/cover no-repeat;
     height: 400px;
 
 }
